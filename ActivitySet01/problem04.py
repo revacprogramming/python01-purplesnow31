@@ -1,6 +1,6 @@
 # Conditional Execution
 
- hrs = input("Enter hours? ")
+hrs = input("Enter hours? ")
 rate=input("Enter Rate:")
 r = float(rate)
 if h <= 40:
